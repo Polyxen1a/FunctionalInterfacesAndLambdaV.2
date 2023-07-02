@@ -9,5 +9,4 @@ class FunctionalInterfacesAndLambdaApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
