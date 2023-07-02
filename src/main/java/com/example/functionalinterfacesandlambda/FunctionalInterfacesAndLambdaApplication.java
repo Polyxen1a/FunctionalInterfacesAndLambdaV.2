@@ -9,5 +9,4 @@ public class FunctionalInterfacesAndLambdaApplication {
     public static void main(String[] args) {
         SpringApplication.run(FunctionalInterfacesAndLambdaApplication.class, args);
     }
-
 }
